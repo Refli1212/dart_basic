@@ -2,7 +2,7 @@ class hewan {
   String? nama;
   int? jumlah_hewan;
   int? jumlah_kaki;
-  //
+
   void display() {
     print("nama hewan: $nama");
     print("ada: $jumlah_hewan buah");
